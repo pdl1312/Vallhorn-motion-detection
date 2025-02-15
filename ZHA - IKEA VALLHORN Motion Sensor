@@ -79,7 +79,7 @@ blueprint:
             - Above horizon
     elevation_adjustment:
       name: Sun Elevation Adjustment
-      description: Adjust sun position (positive: higher, negative: lower).
+      description: "Adjust sun position (positive: higher, negative: lower)."
       default: 0
       selector:
         number:
